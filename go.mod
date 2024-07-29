@@ -4,8 +4,8 @@ go 1.21.3
 
 require (
 	github.com/hashicorp/go-plugin v1.6.0
-	github.com/goplugin/plugin-common v0.1.7-0.20240710165532-ade916a95858
-	github.com/goplugin/plugin-libocr v0.0.0-20240419185742-fd3cab206b2c
+	github.com/goplugin/plugin-common v0.2.0
+	github.com/goplugin/plugin-libocr v0.0.1
 	github.com/stretchr/testify v1.9.0
 )
 
